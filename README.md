@@ -16,4 +16,4 @@ pip install notebook
 
 Thx!
 
-#By Felipe Fonseca Costa and João Pedro Santos Pereire
+## By Felipe Fonseca Costa and João Pedro Santos Pereira
