@@ -3,6 +3,8 @@ Analysis of data on the faculty membership in the universities. Sorted by Gender
 
 Through graphic visualization it's easier to percieve the scenario of teachers at public and private universities in Brazil.
 
+![Data Analyses Plot](https://github.com/fcostafelipe/Raspagem-de-dados-Ensino-Superior-2012-a-2018/blob/master/raspagem.jpg)
+
 #### Source:
 
 http://portal.inep.gov.br/microdados
